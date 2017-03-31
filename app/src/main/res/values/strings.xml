@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomLeftRight</string>
+    <string name="contentDescription">Image of Left or Right arrow</string>
+</resources>
